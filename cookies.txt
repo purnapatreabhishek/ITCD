@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+droitthemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	50f2dcac5fcd0093d9329b157ee09059
+.bootstrapcdn.com	TRUE	/	FALSE	1999999999	__cfduid	d7c403a25ebe31b100f86036fb6a1736d1615017404
+stackpath.bootstrapcdn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
